@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+    #mainBar {
+  display: flex;
+    
+}
+
+
+
+
+
+
+
+/*CSS Reset*/
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+  </style>
+  </head>
+  <body>
+    <nav id="mainBar">
+      <a href="">Become a Host</a>
+      <a href="">Earn Credit</a>
+      <a href="">Help</a>
+      <a href="">Sign up</a>
+      <a href="">Log in</a>
+    </nav>
+  </body>
+</html>
