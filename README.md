@@ -1,2 +1,9 @@
 # OrBnB
-An AirBnB Clone Page
+
+# Project
+
+An AirBnB Clone Page, to practise CSS.
+
+# Technologies
+
+HTML & CSS
